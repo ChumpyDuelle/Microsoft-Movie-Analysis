@@ -19,11 +19,6 @@ The primary questions we are considering are:
 * Are the highest grossing genres also the highest ROI genres?
 
 ***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
 
 ## Data
 
