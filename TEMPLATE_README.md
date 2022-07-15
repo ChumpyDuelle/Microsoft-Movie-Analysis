@@ -56,23 +56,22 @@ Questions to consider:
 
 From what we've gathered above, we can see that Documentaries, Biographies, and Music movies tend to recieve the best ratings, while Horror, Sci-Fi, and Thriller films recieve poorer ratings. While people often use these ratings to form an opinion as to whether or not they will see a movie, we will dive into how heavily ratings may or may not effect the overall profitability of a film.
 
-![nics-graph-2](./images/ratings-and-gross-revenue.png)
+![nics-graph-2](./images/ratings-and-gross-revenue2.png)
 
 After looking at the graph above, we thought it would be interesting to see the correlation between movie rating and gross profit, and we can see that there in near no relation.
 
-![ashlis-graph-1](./images/gross-by-genre.png)
+![ashlis-graph-1](./images/gross-by-genre2.png)
 
 Based on the data, the highest grossing main genres are **Sci-Fi, Adventure, Animation, Action, Fantasy**. 
 
-![ashlis-graph-2](./images/top-40-genres.png)
+![ashlis-graph-2](./images/top-40-genres2.png)
 
 ***
 However, studios produce movies that are labeled under several genres. When looking at the combined genres for the top grossing movies, the data shows that of the highest grossing films, 91% of them are classified as **Action** and/or **Adventure**. The only exception to this would be the movies that are classified as **Horror,Thriller**. 
 ***
 If using this data to determine which types of movies to create, we would suggest **Action** and/or **Adventure** coupled with another other genre will increase the likelihood of a high domestic gross. 
 
-![ians-graph-1](./images/budgets-profit-and-roi.png)
-![ians-graph-2](./images/genres-roi-and-profit.png)
+![ians-graph-2](./images/budgets-profit-and-roi2.png)
 
 Ultimately, the primary takeaways from exploring the relationship between movie gross and production budget,<br>in terms of profit and return on investment, are these:
  - First: that the relationship between worldwide gross and production budget demonstrates a high margin of profit<br>for movies which combine the following genres together:
