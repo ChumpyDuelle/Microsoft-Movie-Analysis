@@ -72,7 +72,9 @@ However, studios produce movies that are labeled under several genres. When look
 
 If using this data to determine which types of movies to create, we would suggest **Action** and/or **Adventure** coupled with another other genre will increase the likelihood of a high domestic gross. 
 
-![ians-graph-2](./images/budgets-profit-and-roi2.png)
+![ians-graph-1](./images/budgets-profit-and-roi2a.png)
+![ians-graph-2](./images/budgets-profit-and-roi2b.png)
+![ians-graph-3](./images/budgets-profit-and-roi2c.png)
 
 Ultimately, the primary takeaways from exploring the relationship between movie gross and production budget,<br>in terms of profit and return on investment, are these:
  - First: that the relationship between worldwide gross and production budget demonstrates a high margin of profit<br>for movies which combine the following genres together:
