@@ -10,7 +10,9 @@ This research seeks to answer the question: what films should Microsoft's new fi
 
 Microsoft is creating a new movie studio. Our research is designed to answer the following question:
 - What kinds of movies should Microsoft's new movie studio be making?
+
 ***
+
 The primary questions we are considering are:
 * Which genres of movies do audiences like?
 * Is there a relationship between ratings and revenue?
@@ -26,7 +28,9 @@ The data we are using comes from three sources:
 * IMDb
 * Box Office Mojo
 * The Numbers
+
 ***
+
 These websites are primary sources for aggregated data concerning film characteristics and performance.<br>These are the raw data categories we accessed from each source:
 * From IMDb, we accessed movie basics and movie ratings.
 * From Box Office Mojo, we accessed movie gross revenue.
@@ -35,11 +39,13 @@ These websites are primary sources for aggregated data concerning film character
 ## Methods
 
 ***
+
 * To prepare the data, we combined tables from several of the data sources, in order to engineer entries with all of the information we were looking for for each title.
 * To analyze the data, we aggregated relevant table values by genre, in order to answer questions about highest performing genres and groups of genres, as well as highest returning genres and groups of genres.
 * To model the data, we utilized matplotlib and seaborn to demonstrate categorical performance in various elements of film production.
 * For these visualizations, we chose to use bar plots almost exclusively as most of our data analysis was categorical in nature, as well as a scatter plot to explore the potential correlation between genre ratings and gross revenue.
 * Seeing no apparent relationship, investigation of actual correlation was not necessary.
+
 ***
 
 ## Results
@@ -59,8 +65,11 @@ Based on the data, the highest grossing main genres are **Sci-Fi, Adventure, Ani
 ![ashlis-graph-2](./images/top-40-genres2.png)
 
 ***
+
 However, studios produce movies that are labeled under several genres. When looking at the combined genres for the top grossing movies, the data shows that of the highest grossing films, 91% of them are classified as **Action** and/or **Adventure**. The only exception to this would be the movies that are classified as **Horror,Thriller**. 
+
 ***
+
 If using this data to determine which types of movies to create, we would suggest **Action** and/or **Adventure** coupled with another other genre will increase the likelihood of a high domestic gross. 
 
 ![ians-graph-2](./images/budgets-profit-and-roi2.png)
@@ -102,7 +111,9 @@ With respect to the original propsed questions of this research, we found the fo
     * Of the highest grossing genres, the ones that have the most amount of overlap with highest ROI are:
         * **Horror**
         * **Thriller**
+
 ***
+
 Based on our research, we recommend that Microsoft's new film studio create movies that are either **Action/Adventure** movies or **Horror/Mystery/Thriller** movies, depending on the budget of the studio and the number of films made in a given period. If Microsoft has the capacity for high-budget films, **Action/Adventure** films will make more money with respect to profit margin. If Microsoft has the capacity to work on a high volume of films at once, **Horror** and **Thriller** films will yield a significantly higher return on investment, compared to **Action/Adventure** films, but with a lower profit margin per film. After a film in these genres is released, you can expect it to receive an average rating of **6/10** if it is an **Action** or **Adventure** film, and an average rating of **5/10** if it is a **Horror** film.
 
 ## For More Information
