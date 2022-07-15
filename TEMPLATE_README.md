@@ -39,10 +39,7 @@ These websites are primary sources for aggregated data concerning film character
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
 ***
-Questions to consider:
 * To prepare the data, we combined tables from several of the data sources, in order to engineer entries with all of the information we were looking for for each title.
 * To analyze the data, we aggregated relevant table values by genre, in order to answer questions about highest performing genres and groups of genres, as well as highest returning genres and groups of genres.
 * To model the data, we utilized matplotlib and seaborn to demonstrate categorical performance in various elements of film production.
