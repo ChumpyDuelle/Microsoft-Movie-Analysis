@@ -52,7 +52,7 @@ Questions to consider:
 
 ## Results
 
-![nics-graph-1](./images/genre-and-average-ratings.jpeg)
+![nics-graph-1](./images/genre-and-average-ratings2.png)
 
 From what we've gathered above, we can see that Documentaries, Biographies, and Music movies tend to recieve the best ratings, while Horror, Sci-Fi, and Thriller films recieve poorer ratings. While people often use these ratings to form an opinion as to whether or not they will see a movie, we will dive into how heavily ratings may or may not effect the overall profitability of a film.
 
